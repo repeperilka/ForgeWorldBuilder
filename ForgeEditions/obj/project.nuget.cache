@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0D1MHPp6Upc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Repeperilka\\Documents\\Visual Studio Projects\\ForgeEditions\\ForgeEditions\\ForgeEditions.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Repeperilka\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
