@@ -1,0 +1,2 @@
+Name:Main world
+Name:Affinity|Sets:P15A|Extra:Emry, Lurker of the Loch;Urza, Lord High Artificer;Thought Monitor;Blightsteel Colossus;Gitaxian Probe;Thoughtcast;Time Walk;Tinker;Ancestral Recall;Flusterstorm;Force of Will;Mental Misstep;Black Lotus;Bolas's Citadel;Mana Crypt;Manifold Key;Mox Emerald;Mox Jet;Mox Opal;Mox Pearl;Mox Ruby;Mox Sapphire;Pithing Needle;Sensei's Divining Top;Sol Ring;Tormod's Crypt;Time Vault;Urza's Bauble;Mishra's Bauble;Island;Sea Gate Restoration;Seat of the Synod;Tolarian Academy;Urza's Saga;Paradoxical Outcome;Minamo, School at Water's Edge
